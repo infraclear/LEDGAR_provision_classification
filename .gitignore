@@ -1,2 +1,5 @@
 .DS_Store
 .venv
+saved_models/*
+*.jsonl
+*__pycache__*
